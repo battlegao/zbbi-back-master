@@ -90,14 +90,11 @@ BI是指商业智能（BusinessIntelligence）分析工具的英文缩写，也�
 ## 智博BI平台功能分析图：
 ![输入图片说明](doc/pictures/11-%E5%8A%9F%E8%83%BD%E5%88%86%E6%9E%90%E5%9B%BE.png)
 
-
 **用户登录：**已有账号的输入密码进行登录，未有账号的用户需要注册账号。
-<br />
-![输入图片说明](doc/pictures/01-%E7%99%BB%E5%BD%95%E9%A1%B5.png)
-<br />**用户注册：**注册账号需按要求填写个人信息，进行信息核验后方可注册成功，信息有误，会进行错误提示给用户，让其修改。
-<br />![输入图片说明](doc/pictures/02-%E6%B3%A8%E5%86%8C%E9%A1%B5.png)
-
-<br />**网站首页：**用户输入账号密码后，登录后跳转到首页，首页智博BI平台信息简介。
+<br />![输入图片说明](doc/pictures/01-%E7%99%BB%E5%BD%95%E9%A1%B5.png)<br />
+**用户注册：**注册账号需按要求填写个人信息，进行信息核验后方可注册成功，信息有误，会进行错误提示给用户，让其修改。
+<br />![输入图片说明](doc/pictures/02-%E6%B3%A8%E5%86%8C%E9%A1%B5.png)<br />
+**网站首页：**用户输入账号密码后，登录后跳转到首页，首页智博BI平台信息简介。
 <br />![输入图片说明](doc/pictures/03-%E9%A6%96%E9%A1%B5.png)
 
 <br />**AI同步数据分析页：**输入相应需求，可以AI自动生成符合预期的图表和分析结论。
@@ -126,7 +123,9 @@ BI是指商业智能（BusinessIntelligence）分析工具的英文缩写，也�
 
 <a name="KCFaJ"></a>
 # 关于博主：
-**个人博客：**[https://www.cnblogs.com/zbcxy506](https://www.cnblogs.com/zbcxy506/)<br />**GitHub: ** [https://github.com/battlegao](https://github.com/battlegao)<br />**Gitee地址：**[https://gitee.com/g-abo](https://gitee.com/g-abo/confidants-back-master)
+**个人博客：**[https://www.cnblogs.com/zbcxy506](https://www.cnblogs.com/zbcxy506/)<br />
+**GitHub: ** [https://github.com/battlegao](https://github.com/battlegao)<br />
+**Gitee地址：**[https://gitee.com/g-abo](https://gitee.com/g-abo/confidants-back-master)
 
 欢迎其他猿友一起讨论学习！！！
 
